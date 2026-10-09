@@ -1,0 +1,4 @@
+Andres Aristizabal
+5 years of experience designing distributed systems.
+Technical Skills:
+Java, Software Design Patterns, Microservices, Docker, Kubernetes, AWS, REST API, Git.
