@@ -1,0 +1,24 @@
+CandidateProfile:
+  'Candidate' name=Name
+  ('Contact' ('email' ':' email=Email)? ('phone' ':' phone=Phone)?)?
+  'Experience' years=INT 'years'
+  'Skills' skills+=Skill[',']
+  'Classification' results+=ProfileResult
+;
+
+ProfileResult:
+  profile=ProfileName '=' status=Status
+;
+
+ProfileName:
+  'FULL_STACK_DEVELOPER' | 'MACHINE_LEARNING_ENGINEER' | 'DATA_SCIENTIST' | 'SOFTWARE_ARCHITECT'
+;
+
+Status:
+  'ACCEPTED' | 'REJECTED'
+;
+
+Name: /[A-Za-z]+( [A-Za-z]+)*/;
+Email: /[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}/;
+Phone: /\+?[\d\- ]{7,}/;
+Skill: /[A-Z][A-Z_]*/;
