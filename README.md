@@ -2,6 +2,6 @@
 
 ## Members:
 * Juan Fernando Jaramillo
-* María Juliana Niños
+* María Juliana Niño
 
 ----
