@@ -98,23 +98,23 @@ Edges that share an output are drawn as one arrow whose label lists the inputs (
 
 ## T_lang
 
-![T_lang transducer diagram](img/T_lang.png)
+![T_lang transducer diagram](../img/T_lang.png)
 
 ## T _rw
 
-![T_fw transducer diagram](img/T_fw.png)
+![T_fw transducer diagram](../img/T_fw.png)
 
 ## T_db
 
-![T_db transducer diagram](img/T_db.png)
+![T_db transducer diagram](../img/T_db.png)
 
 ## T_tool
 
-![T_tool transducer diagram](img/T_tool.png)
+![T_tool transducer diagram](../img/T_tool.png)
 
 ## T _other
 
-![T_other transducer diagram](img/T_other.png)
+![T_other transducer diagram](../img/T_other.png)
 
 # How the transucers are applied
 
