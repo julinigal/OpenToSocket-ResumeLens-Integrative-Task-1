@@ -9,7 +9,7 @@ PHONE_PATTERN = re.compile(r"\+?\d[\d \-]{7,}\d")
 EXPERIENCE_YEARS_PATTERN = re.compile(r"(\d+)\s+years?\s+of\s+experience")
 
 PROGRAMMING_LANGUAGES_PATTERN = re.compile(
-    r"\b(?:JavaScript|Javascript|TypeScript|Python|Java|C#|JS|R)\b"
+    r"\b(?:JavaScript|Javascript|TypeScript|Python|Java|JS|R)\b|\bC#(?=\W|$)"
 )
 
 FRAMEWORKS_PATTERN = re.compile(

@@ -46,22 +46,36 @@ ResumeLens/
 ├── requirements.txt
 ├── data/
 │   ├── profiles/
-│   │   └── profiles.md       
-│   └── resumes/   
-│        └── andres_aristizabal.txt
-│        └── juan_jaramillo.txt
-│        └── juliana_galvis.txt
-│        └── tony_stark.txt
+│   │   └── profiles.md           
+│   └── resumes/                
+│       ├── andres_aristizabal.txt
+│       ├── juan_jaramillo.txt
+│       ├── juliana_galvis.txt
+│       └── tony_stark.txt
+├── docs/
+│   ├── design/
+│   │   ├── Regex.md                 
+│   │   ├── Transductores.md        
+│   │   ├── Canonical_order.md      
+│   │   ├── Automata_Formalization.md 
+│   │   ├── Grammar_Formalization.md  
+│   │   ├── Module_Design.md          
+│   │   ├── Test_stage_1_2.md        
+│   │   ├── Test_Stage_3_4.md       
+│   │   └── Literature_review.md
+│   ├── img/                      
+│   └── poster/
+│       └── Poster-ResumeLens.pdf
 ├── src/
 │   └── resumelens/
-│       ├── extraction/        
-│       ├── normalization/     
-│       ├── classification/     
-│       ├── profile_language/  
-│       └── pipeline.py      
-├── tests/                     
+│       ├── extraction/            
+│       ├── normalization/         
+│       ├── classification/         
+│       ├── profile_language/    
+│       └── pipeline.py             
+├── tests/                          
 └── examples/
-    └── run_example.py          
+    └── run_example.py             
 ```
 
 ----

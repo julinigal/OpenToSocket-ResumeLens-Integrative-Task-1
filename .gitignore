@@ -5,4 +5,4 @@ venv/
 *.egg-info/
 .pytest_cache/
 .DS_Store
-ResumeLens/examples/output/
+examples/output/

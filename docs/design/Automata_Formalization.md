@@ -79,7 +79,7 @@ Size of each automaton:
 | `FULL_STACK_DEVELOPER` | 3 | 4 | 9 | 18 | q₃ |
 | `MACHINE_LEARNING_ENGINEER` | 3 | 4 | 7 | 14 | q₃ |
 | `DATA_SCIENTIST` | 4 | 5 | 9 | 18 | q₄ |
-| `SOFTWARE_ARCHITECT` | 4 | 5 | 1
+| `SOFTWARE_ARCHITECT` | 4 | 5 | 11 | 22 | q₄ |
 
 ## State diagrams
 
