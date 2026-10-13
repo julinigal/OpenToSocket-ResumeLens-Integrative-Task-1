@@ -1,0 +1,4 @@
+Tony Stark
+4 years of experience performing statistical analysis and data visualization.
+Technical Skills:
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Statistics and Probability, SQL, Git.
